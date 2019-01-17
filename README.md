@@ -13,7 +13,12 @@ npm i create-react-app
 create-react-app tokoflix
 ```
 
-### 16/01/2019 Achievements:
+### 16/01/2019 Evening Achievements:
 Single Page Application using react-router-dom
-```npm i -D react-router-dom --save```
+```
+npm i -D react-router-dom --save
+```
+
+### 17/01/2019 Morning Achievements:
+Create (404) Not Found Router
 
